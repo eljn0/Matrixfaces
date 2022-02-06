@@ -1,2 +1,2 @@
 # Matrixfaces
-Pic-Matrix Converter Made with js.
+Pic-Matrix Converter Made with js. w/Servet Gulnaroglu
